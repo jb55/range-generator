@@ -1,0 +1,22 @@
+{
+  "name": "range-generator",
+  "description": "range generator",
+  "keywords": ["range", "generator"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/range-generator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec"
+  },
+  "dependencies": {
+    "naturals": "^1.0.0",
+    "take-generator": "^2.0.0"
+  },
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*",
+  }
+}
