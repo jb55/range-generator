@@ -5,6 +5,8 @@
 
   Exclusive. (eg. `range(5)` will yield `0,1,2,3,4`)
 
+  [![Build Status](https://travis-ci.org/jb55/range-generator.png)](https://travis-ci.org/jb55/range-generator)
+
 ## Installation
 
   Install with npm
