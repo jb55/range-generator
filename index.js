@@ -1,6 +1,6 @@
 'use strict';
 
-var take = require('take-generator');
+var take = require('take-iterator');
 var nats = require('naturals');
 
 module.exports = range;

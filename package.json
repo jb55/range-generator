@@ -2,7 +2,7 @@
   "name": "range-generator",
   "description": "range generator",
   "keywords": ["range", "generator"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/range-generator.git"
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "naturals": "^1.0.0",
-    "take-generator": "^4.0.0"
+    "take-iterator": "^1.0.0"
   },
   "devDependencies": {
     "expect.js": "*",
