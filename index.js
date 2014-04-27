@@ -16,5 +16,5 @@ function* range(a, b) {
     end = a
   }
 
-  yield* take(nats.bind(null, start), end-start)();
+  yield* take(nats(start), end-start);
 }

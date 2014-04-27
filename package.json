@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "naturals": "^1.0.0",
-    "take-generator": "^2.0.0"
+    "take-generator": "^4.0.0"
   },
   "devDependencies": {
     "expect.js": "*",
