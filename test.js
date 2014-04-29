@@ -21,4 +21,9 @@ describe('range-generator', function(){
     expect(r.next().done).to.be(true)
   });
 
+  it('zero return empty iterator', function(){
+    let r = range(0);
+    expect(r.next().done).to.be(true)
+  });
+
 });

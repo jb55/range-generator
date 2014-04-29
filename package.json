@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "naturals": "^1.0.0",
-    "take-iterator": "^1.0.0"
+    "take-iterator": "^1.0.1"
   },
   "devDependencies": {
     "expect.js": "*",
