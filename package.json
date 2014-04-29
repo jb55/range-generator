@@ -2,7 +2,7 @@
   "name": "range-generator",
   "description": "range generator",
   "keywords": ["range", "generator"],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/range-generator.git"
